@@ -1,0 +1,1 @@
+This is sample application only for test purposes jsut to test angularjs app and side components
